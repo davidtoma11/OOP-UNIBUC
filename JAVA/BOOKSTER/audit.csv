@@ -1,0 +1,77 @@
+Logare administrator cu ID: 5,2025-06-02 21:57:48
+ADMIN - afiseazaAutori,2025-06-02 21:57:54
+ADMIN - adaugaAutor,2025-06-02 21:58:20
+ADMIN - afiseazaAutori,2025-06-02 21:58:24
+ADMIN - stergeAutor,2025-06-02 21:58:39
+Logare administrator cu ID: 5,2025-06-02 23:32:36
+Logare administrator cu ID: 5,2025-06-02 23:35:40
+ADMIN - afiseazaUtilizatori,2025-06-02 23:35:43
+ADMIN - adaugaUtilizator,2025-06-02 23:36:28
+Logare administrator cu ID: 5,2025-06-02 23:39:51
+ADMIN - afiseazaUtilizatori,2025-06-02 23:39:55
+ADMIN - adaugaUtilizator,2025-06-02 23:40:35
+ADMIN - stergeUtilizator,2025-06-02 23:42:27
+ADMIN - adaugaUtilizator cu ID14,2025-06-02 23:43:00
+ADMIN - adaugaUtilizator,2025-06-02 23:43:00
+Logare administrator cu ID: 5,2025-06-02 23:47:31
+ADMIN - actualizeazaUtilizator,2025-06-02 23:48:19
+Logare administrator cu ID: 5,2025-06-02 23:51:03
+ADMIN - actualizeazaUtilizator,2025-06-02 23:51:51
+ADMIN - afiseazaUtilizatori,2025-06-02 23:51:54
+ADMIN - stergeUtilizator,2025-06-02 23:53:01
+ADMIN - actualizeazaUtilizator,2025-06-02 23:53:58
+Logare administrator cu ID: 5,2025-06-03 00:07:07
+ADMIN - adaugaUtilizator cu ID: 15,2025-06-03 00:07:29
+ADMIN - stergeUtilizator cu ID: 15,2025-06-03 00:07:40
+Eșec autentificare,2025-06-03 01:05:33
+Logare utilizator cu ID: 3,2025-06-03 01:05:54
+UTILIZATOR 3 - a creat comanda #5,2025-06-03 01:07:20
+UTILIZATOR 3 - a anulat comanda #5,2025-06-03 01:07:35
+UTILIZATOR 3 - a creat comanda #6,2025-06-03 01:08:07
+Eșec autentificare,2025-06-03 01:10:10
+Eșec autentificare,2025-06-03 01:10:11
+Eșec autentificare,2025-06-03 01:10:13
+Blocare acces după prea multe încercări,2025-06-03 01:10:13
+Creare cont nou,2025-06-03 01:10:53
+Eșec autentificare,2025-06-03 01:11:25
+Eșec autentificare,2025-06-03 01:11:26
+Eșec autentificare,2025-06-03 01:11:28
+Blocare acces după prea multe încercări,2025-06-03 01:11:28
+Logare utilizator cu ID: 16,2025-06-03 01:11:50
+Logare administrator cu ID: 5,2025-06-03 01:13:15
+Logare administrator cu ID: 5,2025-06-03 01:34:11
+ADMIN - actualizeazaRecenzie cu ID: 4,2025-06-03 01:35:58
+Logare utilizator cu ID: 16,2025-06-03 01:36:27
+UTILIZATOR 16 - a creat comanda #7,2025-06-03 01:36:52
+UTILIZATOR 16 - a anulat comanda #7,2025-06-03 01:37:25
+Logare utilizator cu ID: 16,2025-06-03 01:42:40
+UTILIZATOR 16 - a creat comanda #8,2025-06-03 01:42:57
+Eșec autentificare,2025-06-03 01:47:51
+Logare utilizator cu ID: 16,2025-06-03 01:48:05
+UTILIZATOR 16 - a returnat comanda #8,2025-06-03 01:48:20
+UTILIZATOR 16 - a adăugat recenzie pentru carte ID: 5,2025-06-03 01:48:43
+Ieșire aplicație,2025-06-03 01:48:49
+Logare administrator cu ID: 5,2025-06-03 08:55:23
+ADMIN - adaugaCategorie cu ID: 8,2025-06-03 08:57:45
+Logare administrator cu ID: 5,2025-06-03 09:00:53
+ADMIN - stergeCategorie cu ID: 8,2025-06-03 09:03:17
+Logare administrator cu ID: 5,2025-06-03 09:05:22
+actualizeazaCategorie - ID: 3,2025-06-03 09:05:59
+actualizeazaCategorie - ID: 2,2025-06-03 09:06:57
+actualizeazaCategorie - ID: 7,2025-06-03 09:07:17
+actualizeazaCategorie - ID: 7,2025-06-03 09:07:27
+Ieșire aplicație,2025-06-03 09:07:39
+Opțiune invalidă selectată în meniu principal,2025-06-03 09:22:25
+Logare utilizator cu ID: 16,2025-06-03 09:22:44
+UTILIZATOR 16 - a creat comanda #9,2025-06-03 09:23:26
+UTILIZATOR 16 - a returnat comanda #9,2025-06-03 09:23:35
+UTILIZATOR 16 - a adăugat recenzie pentru carte ID: 5,2025-06-03 09:24:02
+Creare cont nou,2025-06-03 09:25:02
+Logare utilizator cu ID: 17,2025-06-03 09:25:16
+Logare administrator cu ID: 5,2025-06-03 09:25:47
+ADMIN - actualizeazaComanda cu ID: 7,2025-06-03 09:29:01
+ADMIN - stergeComanda cu ID: 7,2025-06-03 09:29:18
+ADMIN - adaugaCarte cu ID: 10,2025-06-03 09:31:05
+ADMIN - stergeCarte cu ID: 10,2025-06-03 09:31:36
+Logare administrator cu ID: 5,2025-06-03 09:48:27
+ADMIN - adaugaCarte cu ID: 11,2025-06-03 09:48:58
