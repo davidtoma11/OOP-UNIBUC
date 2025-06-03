@@ -8,4 +8,11 @@
 - STL (Standard Template Library) – Usage of vectors, maps, queues, and other data structures.
 - Memory Management – Smart pointers, dynamic allocation, and destructor handling.
 
-# Java Projects (next semester)
+# Java Projects
+- Core OOP – Entity classes, encapsulation
+- Inheritance – Person hierarchy (User/Admin), polymorphism
+- Collections – Lists for data storage, Streams for processing
+- JDBC – Database connectivity with PreparedStatement
+- Exception Handling – SQL and custom exceptions
+- Design Patterns – Singleton for DataInitialization
+- File I/O – Properties files, audit logging
